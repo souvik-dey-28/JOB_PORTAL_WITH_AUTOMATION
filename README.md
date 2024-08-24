@@ -50,7 +50,7 @@ Make sure you have the following installed:
   
     ```bash
     cd job-backend
-    npm i -f
+    npm install -f
     ```
 
 3. Create a .env file with necessary url's and variables.
